@@ -1,8 +1,11 @@
-## My name is Ojas (ōjus) Patel
+## My name is Ojas (ōjus) Patel.
 
-Professional software developer, consultant, and entrepreneur who's been building web applications since 1995 and works primarily in Python, HTTP APIs, UX design, and enterprise systems.
+## I want to use technology + wisdom to promote stewardship of our planet and all its children. #Earthling #Ahimsa AdAstraPerAspera #Heal
 
-- 🔭 I’m currently working on "Frankie"
+- 🔭 I’m currently working on "Frankie" which is my first iteration to this aim.
+
+I've been a professional software developer, consultant, and entrepreneur who's been building web applications since 1995 and works primarily in Python, HTTP APIs, UX design, and enterprise systems.
+
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on AI for the betterment of all Earthlings
 - 🤔 I’m looking for help with AI
