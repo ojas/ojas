@@ -2,6 +2,11 @@
 
 ## I want to use technology + wisdom to promote stewardship of our planet and all its children. #Earthling #Ahimsa AdAstraPerAspera #Heal
 
+<!-- 
+[Muhammad Ali - A Recipe for Life](https://www.youtube.com/watch?v=TyjbiLrOXM0)
+[Rich Roll x Chase Jarvis on Paul, a photography visionary from Africa](https://share.snipd.com/snip/fd13340e-3780-49db-9579-143a46b1fdfc)
+-->
+
 - 🔭 I’m currently working on "Frankie" which is my first iteration to this aim.
 
 I've been a professional software developer, consultant, and entrepreneur who's been building web applications since 1995 and works primarily in Python, HTTP APIs, UX design, and enterprise systems.
