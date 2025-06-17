@@ -2,6 +2,10 @@
 
 ## I want to use technology + wisdom to promote stewardship of our planet and all its children. #Earthling #Ahimsa AdAstraPerAspera #Heal
 
+- Machine Minimum, Man Maximum approach
+- Flow / Zone of Genius
+- Path of Mastery
+
 <!-- 
 [Muhammad Ali - A Recipe for Life](https://www.youtube.com/watch?v=TyjbiLrOXM0)
 [Rich Roll x Chase Jarvis on Paul, a photography visionary from Africa](https://share.snipd.com/snip/fd13340e-3780-49db-9579-143a46b1fdfc)
