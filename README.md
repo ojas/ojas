@@ -1,23 +1,12 @@
-## My name is Ojas (ōjus) Patel.
+#### About Me
 
-## I want to use technology + wisdom to promote stewardship of our planet and all its children. #Earthling #Ahimsa AdAstraPerAspera #Heal
+I build software tools and design systems that solve problems. <!-- why: make it easier for the next guy -->
 
-- Machine Minimum, Man Maximum approach
-- Flow / Zone of Genius
-- Path of Mastery
+The first software I ever released was for IBM's PS/2. <!-- for a client who needed to visualize crop yields on his farm --> I have been creating web-based software professionally since 1995 and have been through Perl, PHP, ASP, .Net, C#, with all the servers and databases along the way. Today I write mostly write full-stack applications usually with a Python backend.
+<!-- SOAP, JSONP, REST -->
 
-<!-- 
-[Muhammad Ali - A Recipe for Life](https://www.youtube.com/watch?v=TyjbiLrOXM0)
-[Rich Roll x Chase Jarvis on Paul, a photography visionary from Africa](https://share.snipd.com/snip/fd13340e-3780-49db-9579-143a46b1fdfc)
--->
+I’m a craftsman at heart. On the keyboard, in the workshop, or in the studio…  <!-- kokoro --> I approach everything with care, clarity, reliability, and enduring quality. <!-- This mindset spans all areas of my life—it’s not just how I work, it’s how I engage with the world. -->
 
-- 🔭 I’m currently working on "Frankie" which is my first iteration to this aim.
+If you've read this far, then I can trust you enough to tell you I once built a shipping container home and am on Netflix. Also a Lexus LFA once spoke to me <!-- The relentless persuit of perfection --> and I manifest an example in my garage. <!-- The Power of Dreams -->
 
-I've been a professional software developer, consultant, and entrepreneur who's been building web applications since 1995 and works primarily in Python, HTTP APIs, UX design, and enterprise systems.
-
-- 🌱 I’m currently learning Rust, GNU Emacs Org Mode, NixOS
-- 👯 I’m looking to collaborate on AI for the betterment of all Earthlings
-- 🤔 I’m looking for help with AI
-- 💬 Ask me about python, HTTP and Rest APIs, craftsmanship, spirited/motoring
-- 📫 How to reach me: <https://ojas.net>
-- ⚡ Fun fact: I once built a shipping container home and am on Netflix. A car - a Lexus LFA - once spoke to me and I manifest it in my garage.
+PS: My name is Ojas (pronounced ōjus).
